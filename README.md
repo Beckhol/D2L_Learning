@@ -1,5 +1,5 @@
 # D2L_Learning
-Deep learning on PyTorch followed by D2L Learning.
+Deep learning on PyTorch followed by D2L Learning.  
 Prepare the GDP related to CV.
 
 ## Computer Vision Part
